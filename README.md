@@ -95,7 +95,7 @@ src="https://cardivo.vercel.app/api?name=TheKingZeuz%20MD%20BOT%20&description=�
 
 ---------
 
-<a href="https://whatsapp.com/(channel name )"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://whatsapp.com/https://whatsapp.com/channel/0029Vaydx7S1iUxRfMGw0U18"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 -----------
 
@@ -103,7 +103,7 @@ src="https://cardivo.vercel.app/api?name=TheKingZeuz%20MD%20BOT%20&description=�
 
 ----------
 
-<a href="https://youtube.com/@(My yt Name )?si=F1IIc1As0gu3ijqk"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://www.youtube.com/@the_king_zeuz_09?si=F1IIc1As0gu3ijqk"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 --------------
 
@@ -152,58 +152,9 @@ src="https://cardivo.vercel.app/api?name=TheKingZeuz%20MD%20BOT%20&description=�
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/KaviduLakshan/TheKingZeuz-MD)
-
-----------
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/KaviduLaksh
 
 ### <br>    ❖ DEPLOY_REPLIT ❖
-
-`✠ IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY TheKingZeuz MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT ✠`
-
--------------
-
-<p align="left"><a href="https://repl.it/github/KaviduLakshan/TheKingZeuz-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
---------------
-
-### <br>   ❖ DEPLOY_KOYEB ❖
-
-`✠ IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY TheKingZeuz ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
-
----------
-
-<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-red?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-
-------------
-
-### <br>  ❖ DEPLOY_RAILWAY ❖
-
-`✠ IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY TheKingZeuz-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
-
---------
-
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
-
----------------
-
-### <br> ❖ MORE DEPLOY METHOD ❖
-
---------
-### <br>   ❖ DEPLOY_GLITCH ❖
-
-<a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
-
---------
-
-### <br>   ❖ DEPLOY_CODESPACE ❖
-
-<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
-
---------
-
-### <br>   ❖ DEPLOY_RENDER ❖
-
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 -----------
 
@@ -246,12 +197,12 @@ jobs:
 
 -----------
 
-`✠ HOW TO DEPLOY SILENT-SOBX-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
+`✠ HOW TO DEPLOY TheKingZeuz-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
 
 -------------
 
 <p align="center">
-   <a href="https://youtu.be/jn8_kP5xxP4?si=LOydtNtHyv3nfzEB"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+   <a href="video link eka methana"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
