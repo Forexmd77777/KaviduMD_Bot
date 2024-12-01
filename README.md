@@ -10,12 +10,12 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=FF0B01&center=true&vCenter=true&multiline=false&lines=`TheKingZeuz-MD+-+WHATSAPP+BOT-Created By Kavidu Lakshan`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=FF0B01&center=true&vCenter=true&multiline=false&lines=`TheKingZeuz-MD+-+WHATSAPP+BOT`" alt="">
 
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=TheKingZeuz%20MD%20BOT%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20Kavidu%20Lakshan%20OWNER%20Kavidu%20Lakshan%20♥️&image=https://photos.app.goo.gl/SV6HYcz2Cb8WqUKS8.jpg?v=4&backgroundColor=%23ecf0f1&github=TheKingZeuz-MD&pattern=leaf&colorPattern=%23ffffff"/>
+src="https://cardivo.vercel.app/api?name=TheKingZeuz%20MD%20BOT%20&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20Kavidu%20Lakshan%20OWNER%20Kavidu%20Lakshan%20♥️&image=https://pin.it/7qN9HvZaH.jpg?v=4&backgroundColor=%23ecf0f1&github=TheKingZeuz-MD&pattern=leaf&colorPattern=%23ffffff"/>
 
 <br>
 
