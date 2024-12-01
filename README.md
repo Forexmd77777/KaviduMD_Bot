@@ -10,12 +10,12 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`TheKingZeuz-MD+-+WHATSAPP+BOT`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=FF0B01&center=true&vCenter=true&multiline=false&lines=`TheKingZeuz-MD+-+WHATSAPP+BOT-Created By Kavidu Lakshan`" alt="">
 
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=TheKingZeuz%20MD%20BOT%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20Kavidu%20Lakshan%20KING%20OF%20KINGS%20OWNER%20Kavidu%20Lakshan%20♥️&image=https://photos.app.goo.gl/SV6HYcz2Cb8WqUKS8.jpg?v=4&backgroundColor=%23ecf0f1&github=TheKingZeuz-MD&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=TheKingZeuz%20MD%20BOT%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20Kavidu%20Lakshan%20OWNER%20Kavidu%20Lakshan%20♥️&image=https://photos.app.goo.gl/SV6HYcz2Cb8WqUKS8.jpg?v=4&backgroundColor=%23ecf0f1&github=TheKingZeuz-MD&pattern=leaf&colorPattern=%23ffffff"/>
 
 <br>
 
@@ -26,7 +26,7 @@ src="https://cardivo.vercel.app/api?name=TheKingZeuz%20MD%20BOT%20V2&description
 --------
 
 <p align="center">
-<a href="https://github.com/TheKingZeuz-MD/"><img title="Followers" src="https://img.shields.io/github/followers/TheKingZeuz-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/TheKingZeuz-MD/"><img title="Followers" src="https://img.shields.io/github/followers/TheKingZeuz-MD?color=red&style=flat-square"></a>
 <a href="https://github.com/KaviduLakshan/TheKingZeuz-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KaviduLakshan/TheKingZeuz-MdD?color=red&style=flat-square"></a>
 <a href="https://github.com/KaviduLakshan/TheKingZeuz-MD/network/members"><img title="Forks" src="https://img.shields.io/github/KaviduLakshan/TheKingZeuz-MD?color=red&style=flat-square"></a>
 <a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/KaviduLakshan/TheKingZeuz-MD?style=flat-square&color=red"></a>
