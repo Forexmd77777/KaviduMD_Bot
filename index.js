@@ -26,7 +26,7 @@ const bodyparser = require('body-parser')
 const { tmpdir } = require('os')
 const Crypto = require('crypto')
 const path = require('path')
-const prefix = config.PREFIX
+
 
 const ownerNumber = ['94761222715']
 
@@ -52,6 +52,12 @@ async function connectToWA() {
 const connetcDB = require ('./lib/mongodb')
 connectDB();
 //============================================
+const {readEnv} = require('./lib/database')
+const config = await readEnv ();
+const prefix = config.PREFIX
+
+//==================================
+        
 console.log("CONNECTING TheKingZeuz MD BOT🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
