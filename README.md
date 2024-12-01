@@ -8,8 +8,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ------
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=600&size=25&duration=3000&pause=800&random=false&width=415&lines=+•★⃝ ☢TheKingZeuz-+MD☢★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+Kavidu+Lakahan;RELEASED+DATE+01%2F11%2F2024." alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=1000&size=40&duration=6000&pause=1000&random=false&width=500&lines=+•★⃝ ☢TheKingZeuz-+MD☢★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+Kavidu+Lakahan;RELEASED+DATE+01%2F11%2F2024." alt="Typing SVG" /></a>
  </p>
 
 ------------
