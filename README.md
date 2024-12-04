@@ -1,11 +1,11 @@
 <div align="center">
 	<h3> 💀TheKingZeuz-MD WHATSAPP BOT💀 </h3>
-<img src="https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg" width="300" height="150">
+
 </div>
 <div align="center">
 </p>
 	
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+SADDESHA+LARA+MD+DEVELOPER)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+KaviduLakshan+TheKingZeuz+MD+DEVERLOPER)](https://git.io/typing-svg)
 
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+TheKingZeuz-MD...;Created+by+KaviduLakshan...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+TheKingZeuz-MD ..."
