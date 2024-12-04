@@ -8,7 +8,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+KaviduLakshan+TheKingZeuz+MD+DEVERLOPER)](https://git.io/typing-svg)
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+TheKingZeuz-MD...;Created+by+KaviduLakshan...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+TheKingZeuz-MD ..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=6000&lines=Welcome+To+TheKingZeuz-MD...;Created+by+KaviduLakshan...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+TheKingZeuz-MD ..."
             alt="Typing">
 
 <div align="center">
@@ -45,51 +45,10 @@
 ***CLICK THE BUTTON BELOW TO DEPLOY🌸***
 
  <details close>
-<summary>🌸 DEPLOY ONLY PAY 🌸</summary>
-	 
---------	 
 
-<hr>
-<h5>🌸 Deploy Free Workflows 👇</h5>
-
-```
-name: Node.js CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
-```	
 </details>
 <hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha_Min" alt="">
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+by+KaviduLakshan;Enjoy TheKingZeuz+MD" alt="">
 <hr>
 
 **🌸 FREE DEPLOY WORKFLOWS**
@@ -129,7 +88,4 @@ jobs:
       run: npm start
 ```
 
-
-<h5>🌸 TOTAL WEB VIEWS</h5>
-<img src="https://profile-counter.glitch.me/Sadeesha/count.svg" center>
 
