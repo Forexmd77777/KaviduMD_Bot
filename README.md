@@ -231,6 +231,3 @@ jobs:
 
 ------------
 
-![license](https://img.shields.io/github/license/KaviduLakshan/TheKingZeuz-MD?color=green&label=License&style=plastic)
-
-----------
