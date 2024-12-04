@@ -8,7 +8,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+KaviduLakshan+TheKingZeuz+MD+DEVERLOPER)](https://git.io/typing-svg)
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=6000&lines=Welcome+To+TheKingZeuz-MD...;Created+by+KaviduLakshan...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+TheKingZeuz-MD ..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=6000&lines=Welcome+To+TheKingZeuz+MD...;Created+by+KaviduLakshan...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+TheKingZeuz-MD ..."
             alt="Typing">
 
 <div align="center">
