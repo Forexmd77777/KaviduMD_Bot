@@ -1,11 +1,14 @@
 <div align="center">
 	<h3> 💀TheKingZeuz-MD WHATSAPP BOT💀 </h3>
-<img src="https://github.com/user-attachments/assets/7ee700a3-e7f6-4925-8478-201384a477f2" width="400" height="250
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+	<img src="https://github.com/user-attachments/assets/7ee700a3-e7f6-4925-8478-201384a477f2" width="400" height="250
 	/div>
 <div align="center">
 </p>
 	
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+KaviduLakshan+TheKingZeuz+MD+DEVERLOPER)](https://git.io/typing-svg)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 </details>
 <hr>
