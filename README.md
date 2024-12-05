@@ -1,7 +1,7 @@
 <div align="center">
 	<h3> 💀TheKingZeuz-MD WHATSAPP BOT💀 </h3>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-	<img src="https://github.com/user-attachments/assets/7ee700a3-e7f6-4925-8478-201384a477f2" width="400" height="250
+	<img src="https://github.com/user-attachments/assets/307015c2-a462-4739-a3c2-b9cbdd540c33" width="600" height="300
 	/div>
 <div align="center">
 </p>
@@ -26,15 +26,15 @@
 
 
        
-<h3>🌸 How To Deploy </h3>
+<h3>💀 How To Deploy </h3>
 
-<h5>🌸 First tap to Fork button and create new fork</h5>
+<h5>💀 First tap to Fork button and create new fork</h5>
 
-<h4>🌸 Following 👇</h4>
+<h4>💀Following 👇</h4>
 <hr>	
-<h3>🌸 Get Your SESSION ID 👇</h3> 
+<h3>💀 Get Your SESSION ID 👇</h3> 
 <h4>Click the SESSION_ID Button</h4>
-<h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් එක click කරන්න)</h5> 
+<h5>💀(SESSION_ID ලබා ගැනීමට පහත බටන් එක click කරන්න)</h5> 
 <br>
 <h3>SEVER ➊</h3>
 <div align="center">
@@ -45,7 +45,7 @@
 <button><tr><a href="https://webpair-mega-1.onrender.com/pair">🌸 SESSION_ID 🌸 ❷</a></tr></button>
 
 <hr>
-<h3>🌸 Lara updates chanels </h3>
+<h3>💀TheKingZeuz MD Tech and updates chanels </h3>
 <a href="https://whatsapp.com/channel/0029Vaydx7S1iUxRfMGw0U18">Join TheKingZeuz MD Tech and updates chanel 👧</a>
 <hr>
 
