@@ -1,7 +1,7 @@
 <div align="center">
 	<h3> 💀TheKingZeuz-MD WHATSAPP BOT💀 </h3>
-
-</div>
+<img src="https://www.imghippo.com/i/GrT5111Nxc.png" width="300" height="150
+	/div>
 <div align="center">
 </p>
 	
