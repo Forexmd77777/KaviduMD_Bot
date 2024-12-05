@@ -38,7 +38,7 @@
 <br>
 <h3>SEVER ➊</h3>
 <div align="center">
-<button><tr><a href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">🌸 SESSION_ID 🌸 ➊</a></tr></button>
+<button><tr><a href="gh repo clone TheKingZeuzMD/MYBOT-PAIR-WEB">🌸 SESSION_ID 🌸 ➊</a></tr></button>
 <br>
 <h3>SEVER ❷</h3>
 <div align="center">
