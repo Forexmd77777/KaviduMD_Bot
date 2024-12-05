@@ -7,17 +7,21 @@
 	
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+KaviduLakshan+TheKingZeuz+MD+DEVERLOPER)](https://git.io/typing-svg)
 
+</details>
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=6000&lines=Welcome+To+TheKingZeuz+MD...;Created+by+KaviduLakshan...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+TheKingZeuz-MD ..."
-            alt="Typing">
+<img src="http://readme-typing-svg.herokuapp.com?color=13ff72&center=true&vCenter=true&multiline=false&lines=TheKingZeuz+MD;Muliti+Device+Whatsapp+Bot;Created+by+KaviduLakshan;Enjoy+TheKingZeuz+MD" alt="">
+
+</details>
+<hr>
+<img src="http://readme-typing-svg.herokuapp.com?color=3bddff&center=true&vCenter=true&multiline=false&lines=TheKingZeuz+MD+බොට්+යනු;WhatsApp+සඳහා+වන;පරිශීලක+බොට්+කෙනෙකු+වන+අතර;එමඟින්ඔ+බට+බොහෝ+කාර්යයන්;ඉටු+කිරීමට+ඉඩ+සලසයි" alt="">
 
 <div align="center">
-	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="KaviduLakshan">
+	<img src="https://moe-counter.glitch.me/get/@TheKingZeuzMD?theme=gelbooru" width="300" height="150" alt="KaviduLakshan">
 </div>
 
 <hr>
 
-			TheKingZeuz-MD බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
+
        
 <h3>🌸 How To Deploy </h3>
 
