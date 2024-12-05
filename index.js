@@ -90,7 +90,8 @@ console.log('TheKingZeuzMD CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `*Enjoy TheKingZeuzMD Whatsapp Bot Owner - Kavidu Lakshan*
 
-conn.sendMessage(conn.user.id, { image: { url: `https://https://pin.it/34QJP7MC2` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url:https://github.com/user-attachments/assets/307015c2-a462-4739-a3c2-b9cbdd540c33"
+
 
 }
 })
@@ -259,7 +260,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 app.get("/", (req, res) => {
 res.send("Hey,TheKingZeuzMD STARTED ✅");
 });
-app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
+app.listen(port, () => console.log(Server listening on port http://localhost:${port}`));
 setTimeout(() => {
 connectToWA()
 }, 4000);
