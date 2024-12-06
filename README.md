@@ -25,33 +25,7 @@
 <hr>
 
 
-       
-<h3>💀 How To Deploy </h3>
 
-<h5>💀 First tap to Fork button and create new fork</h5>
-
-<h4>💀Following 👇</h4>
-<hr>	
-<h3>💀 Get Your SESSION ID 👇</h3> 
-<h4>Click the SESSION_ID Button</h4>
-<h5>💀(SESSION_ID ලබා ගැනීමට පහත බටන් එක click කරන්න)</h5> 
-<br>
-<h3>SEVER ➊</h3>
-<div align="center">
-<button><tr><a href="gh repo clone TheKingZeuzMD/MYBOT-PAIR-WEB">🌸 SESSION_ID 🌸 ➊</a></tr></button>
-<br>
-<h3>SEVER ❷</h3>
-<div align="center">
-<button><tr><a href="https://webpair-mega-1.onrender.com/pair">🌸 SESSION_ID 🌸 ❷</a></tr></button>
-
-<hr>
-<h3>💀TheKingZeuz MD Tech and updates chanels </h3>
-<a href="https://whatsapp.com/channel/0029Vaydx7S1iUxRfMGw0U18">Join TheKingZeuz MD Tech and updates chanel 👧</a>
-<hr>
-
-***CLICK THE BUTTON BELOW TO DEPLOY🌸***
-
- <details close>
 
 </details>
 <hr>
